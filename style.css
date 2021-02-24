@@ -1,0 +1,156 @@
+html,
+body {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.5;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-synthesis: none;
+  -moz-font-feature-settings: "kern";
+  font-feature-settings: "kern";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  direction: ltr;
+  text-align: left;
+  background: #0d1117;
+  color: #c9d1d9;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+  width: 100%;
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 24px 28px;
+}
+
+.hero__greeting {
+  margin: 0;
+  font-size: 64px;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -0.003em;
+}
+.hero__greeting--rainbow {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    #ef4444 0%,
+    #f76e3c,
+    #fda23c,
+    #fdc345,
+    #fcd142,
+    #fbce29,
+    #dfcd00,
+    #a5cd00,
+    #76d13b,
+    #59da6b,
+    #50e18f,
+    #62e5ab,
+    #60e2b9,
+    #41d9bd,
+    #00cdc7,
+    #00bed2,
+    #09b8de,
+    #27bcf0,
+    #58bffa,
+    #82c3fd,
+    #87b8fe,
+    #7d9cfc,
+    #8082f9,
+    #866af8,
+    #9a66f7,
+    #b47afa,
+    #ce8dfb,
+    #e6a1fb,
+    #f29dec,
+    #f580c9,
+    #f864a2,
+    #f84a76,
+    #f34058,
+    #f1424b 50%
+  );
+  background-size: 500vh 500vh;
+  animation: slow-cycle 30s linear infinite forwards;
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+@keyframes slow-cycle {
+  0% {
+    background-position-x: 0%;
+  }
+  100% {
+    background-position-x: 500vh;
+  }
+}
+
+.hero__tagline {
+  min-height: 120px;
+  margin: 24px 0;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: -0.004em;
+}
+
+.hero__quip--blurry {
+  color: transparent;
+  text-shadow: 0 0 3px rgba(255, 255, 255, 1);
+}
+.hero__quip--highlight-blue {
+  padding: 2px 6px;
+  border-radius: 6px;
+  color: #58a6ff;
+  background-color: rgba(88, 166, 255, 0.1);
+}
+.hero__quip--highlight-gray {
+  padding: 2px 6px;
+  border-radius: 6px;
+  background-color: #21262d;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  gap: 18px;
+  margin-top: 20px;
+}
+
+.card {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 6px;
+  background: #21262d;
+  border: 1px solid #30363d;
+  transition: all 0.2s ease;
+}
+.card:hover {
+  background-color: #30363d;
+  border-color: #8b949e;
+  text-decoration: none;
+}
+.card:active {
+  background-color: #161b22;
+  transition: none;
+}
+
+.card__svg {
+  width: 48px;
+}
+
+.ps {
+  text-align: center;
+  margin: 52px 0 24px;
+  color: #8b949e;
+}
