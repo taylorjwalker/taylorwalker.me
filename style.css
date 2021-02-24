@@ -35,7 +35,7 @@ a {
 }
 
 .hero__greeting {
-  margin: 0;
+  margin: -12px 0 0;
   font-size: 64px;
   font-weight: 600;
   line-height: 1.1;
@@ -150,6 +150,16 @@ a {
 
 .ps {
   text-align: center;
-  margin: 52px 0 12px;
+  margin: 52px 0 0;
   color: #8b949e;
+}
+
+/* Media queries */
+@media only screen and (max-width: 650px) {
+  .hero__tagline {
+    min-height: 72px;
+  }
+  .ps {
+    margin: 24px 0 0;
+  }
 }
