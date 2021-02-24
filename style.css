@@ -95,7 +95,7 @@ a {
 }
 
 .hero__tagline {
-  min-height: 108px;
+  min-height: 72px;
   margin: 24px 0;
   font-size: 24px;
   font-weight: 400;
@@ -157,7 +157,7 @@ a {
 /* Media queries */
 @media only screen and (max-width: 650px) {
   .hero__tagline {
-    min-height: 72px;
+    min-height: 108px;
   }
   .ps {
     margin: 24px 0 0;
