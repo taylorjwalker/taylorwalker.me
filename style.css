@@ -120,13 +120,12 @@ a {
 
 .cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(84px, 1fr));
   gap: 18px;
-  margin-top: 20px;
 }
 
 .card {
-  height: 100px;
+  height: 84px;
   display: flex;
   justify-content: center;
   align-items: center;
