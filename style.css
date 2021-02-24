@@ -95,7 +95,7 @@ a {
 }
 
 .hero__tagline {
-  min-height: 120px;
+  min-height: 108px;
   margin: 24px 0;
   font-size: 24px;
   font-weight: 400;
@@ -150,6 +150,6 @@ a {
 
 .ps {
   text-align: center;
-  margin: 52px 0 24px;
+  margin: 52px 0 12px;
   color: #8b949e;
 }
