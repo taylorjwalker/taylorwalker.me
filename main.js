@@ -25,7 +25,7 @@ const taglines = [
   "Digital denizen hoping to be a digital nomad some day.",
   "Dippin' Dots-eating time traveler.",
   "Expert Googler.",
-  "Faithful attender of Fried Chicken Thursdays at Florida Farm Bureau.",
+  "Faithful attender of Formerly Fried Chicken Thursdays at Florida Farm Bureau.",
   "Former child.",
   "Former owner of a whole Bitcoin.",
   "Friend of someone who knows Tom Holland. ^1000 He rode on her jet ski!",
