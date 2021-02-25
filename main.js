@@ -66,6 +66,7 @@ const taglines = [
   "Semicolon enthusiast;",
   "Silly goose.",
   "Singer-song^500listener.",
+  "Sonic boi of the Gainesville Sonic Bois™.",
   "Strict adherent to Inbox Zero.",
   "That guy drinking tea at a coffee shop.",
   "One of Twenty One Pilots' top 2% fans.",
