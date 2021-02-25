@@ -59,7 +59,7 @@ const taglines = [
   "Regal Unlimited™ subscriber.",
   "Registered voter.",
   "Rock climber.",
-  "SCUBA diver. ^1000 If I can't scuba, then what's this all been about? ^500 What have I been working toward?",
+  "Scuba diver. ^1000 If I can't scuba, then what's this all been about? ^500 What have I been working toward?",
   "S^500l^500o^500w^500 t^500y^500p^500i^500s^500t^500.",
   "Seizer of days.",
   "Semicolon enthusiast;",
