@@ -5,6 +5,7 @@ const taglines = [
   "Also answers to Tyler.",
   "Aspiring applicant of The Finer Things Club.",
   "Awkward, ^500 but in a sort of charming way.",
+  "Bad boy for life.",
   "Bagel biter.",
   "Bicycle rider.",
   "Big fan of the colors <span class='hero__quip--highlight-blue'>blue</span> and <span class='hero__quip--highlight-gray'>gray</span>.",
