@@ -30,6 +30,7 @@ const taglines = [
   "Former owner of a whole Bitcoin.",
   "Friend of someone who knows Tom Holland. ^1000 He rode on her jet ski!",
   "Future procrastinator.",
+  "Godfather to Koda, the rarest of puppers and goodest of boys.",
   "Hamilton fan. ^1000 Is there a name for us?",
   "Handsome... ^1000 according to my grandmother.",
   "Has a structured settlement and needs cash now!",
