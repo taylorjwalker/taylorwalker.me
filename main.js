@@ -14,7 +14,7 @@ const taglines = [
   "Brother.",
   "Card-carrying Bible, history, and language nerd.",
   "Cash Apper ($taylorjwalker).",
-  "Chick-fil-A One™ Silver member.",
+  "Chick-fil-A One™ Red member.",
   "Childlike enjoyer of magic.",
   "Comedy connoisseur.",
   "Computer science major.",
