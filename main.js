@@ -35,6 +35,7 @@ const taglines = [
   "Has a structured settlement and needs cash now!",
   "Has heard the tragedy of Darth Plagueis The Wise.",
   "Hopeful romantic.",
+  "Husband.",
   "Hydro homie.",
   "INFP, ^1000 I think.",
   "Informed consumer.",
