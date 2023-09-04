@@ -57,7 +57,6 @@ const taglines = [
   "Patron of the arts.",
   "Person whose jib you like the cut of, I hope.",
   "Podcast listener.",
-  "Possibly Jewish.",
   "Registered voter.",
   "Rock climber.",
   "Scuba diver. ^1000 If I can't scuba, then what's this all been about? ^500 What have I been working toward?",
